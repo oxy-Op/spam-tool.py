@@ -31,6 +31,7 @@ if y == "Y":
 else:
 
  if y != "Y":
+  exit()
 
    print("Program Finished")
 
