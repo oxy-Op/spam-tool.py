@@ -54,7 +54,6 @@ print( spam * int(times) + "\n Successfully Spammed " + str("`"+spam+"`") +" "+ 
 
 time.sleep(1)
 
-While True:
 
 print("\nPython Spam-Tool By Oxy")
 
